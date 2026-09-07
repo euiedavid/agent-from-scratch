@@ -150,6 +150,18 @@ quit
 ```text
 agents-from-scratch/
 │
+├── SnakeGame/
+│   ├── constants.py
+│   ├── game_functions.py
+│   ├── main.py
+│   └── requirements.txt
+│
+├── concepts/
+│   ├── notes.txt
+│   ├── step1.py
+│   ├── step2.py
+│   └── step3.py
+│
 ├── agent.py
 ├── README.md
 └── .gitignore
